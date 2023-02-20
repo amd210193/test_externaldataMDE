@@ -1,0 +1,120 @@
+FileHash-MD5,Indicator_Name,Description,isURL?,Risk_Score,Threat_Category
+85f6658ad71340dd985b0f5b1c0bbb99 , UpdateUnits.exe , W32.AIDetectNet , False , 2 , suspicious 
+98cde93cbc9517e271637cc1927f5e48 , lshttpd , _, False , 0 , suspicious 
+b3c2e9f3e6b36070b661d40fb70cfbcf , Certificate_822657.wsf , Trojan.Generic , False , 18 , malicious 
+86d9f8cda71bd25b77aafa6f38750f1a , Sunsama20Setup200.9.4.exe , _, False , 0 , malicious 
+2a2897cc2500e7bc7da4c81379999e81 , lshttpd , _, False , 0 , suspicious 
+a061a941c815bc5cc41ed7ecb9207b15 , Nielsen Answers desktop Installer.exe , Trojan.Malware.300983 , False , 2 , malicious 
+ddf25629f576ebc01c1a979fca4f1276 , Updater.exe , Malware.Generic , False , 11 , malicious 
+c80458cea1a0d6faeeb11772d0989500 , Utilidades Tecnicos 2.exe , Malware.Generic , False , 1 , malicious 
+eb62721146ba1916f18c9edc78c55d89 , http://www.destinny.com/ , Malware site , True , 1 , malicious 
+bc4ee26104b04a5a645ef0eea35e536e , https://signal6domain.online/click?redirect=http%3A%2F%2Ftpc.us&dID=1641422699310&linkName=tpc.us , Phishing site , True , 1 , suspicious 
+1d421823c9a1ebf33c735a86ca1650c5 , ExpressVPN v10.78.0 [Modded].apk , _, False , 0 , suspicious 
+a3a5489d233a77aa6ebc38b87604d9f1 , org.telegram.messenger_9.4.2.apk , _, False , 0 , malicious 
+8597ee50cb841c6810967fedf7a0ae50 , https://r20.rs6.net/tn.jsp?t=3Dqcuzd54ab.0.0.sqy9yutab.0&1d=preview&r=3&p=http%3A%2F%2FAtnNwR.Wb7lR.ecomarkett.cl%2F%3F%3Dabc%40allianzgi.com , _, True , 0 , malicious 
+3f60a6ead1261ddcbc7f551a02ddf7a9 , KT CHF Rule Manager v1.0.2.msi , _, False , _, malicious 
+2034a3162dc4849c677d345619efafcb , http://219.156.190.72:58900/i , Malware site , True , 18 , malicious 
+1aec65cdbc6a037a1f252888d5704357 , http://facture-edf.info/ , Phishing site , True , 8 , malicious 
+6757c444db5d668c5f42eb1f2cebec4d , FileZilla_Server_1.6.6_win64-setup.exe , Grayware_confidence_60% , False , 1 , suspicious 
+eaa082a70209ba4154e20c68f281fd6a , http://iphanyi.webredirect.org/ , Malicious site , True , 10 , malicious 
+c62d59fd0e9e8cd17583ec371deeff09 , sox.exe , _, False , 0 , suspicious 
+a56de08479860233b0edb4d7e5dbf481 , SKIDROW.exe , Backdoor , False , 14 , suspicious 
+b29d679d060ac4e2ab9e851c8b542b15 , https://www.alcasa.org.au/ , Phishing site , True , 9 , malicious 
+0ccf57723c401d2d7bce9f340038a2ad , ETISALAT DOMAINS Renewal Notice for nyubo2.ae_url_006.bin , _, False , _, malicious 
+f27d8e9fe5e6d187254d1a7bd5c964e1 , iTranslate v5.9.2 [Premium] [Arm7].apk , _, False , _, suspicious 
+811afafe1dc0479161a1f99f23ccee86 , Torque_1.12.99.b1120099_UserUpload.Net.apk , _, False , 0 , suspicious 
+8c50bf5f527b20208fb2d6c2f54f7af4 , GLCUpdate , _, False , 0 , suspicious 
+08d3ecbea717146329f7f5e740a7b413 , getlic_lsws , _, False , 0 , suspicious 
+952c28362d990335d5135bd278679f66 , https://kb4qobquw7hwvk4jjcfl3izrmfr264cy63fckakzwwl4afi-ipfs-dweb-link.translate.goog/?_x_tr_hp=bafybeiattta&_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US#info%40coil.co.uk , _, True , _, suspicious 
+596db05674ee214dc1ecb3abff2a2a83 , http://98192.biz/ , Phishing site , True , 4 , suspicious 
+04c768bf8ef0f0e3dfe081c9aab45db4 , http://59.99.130.152:60019/i , Malware site , True , 11 , malicious 
+8ae4ee82fe189e39ab67607a68c6e530 , Overdrop v1.8.6.16 [Premium].apk , _, False , 0 , suspicious 
+c8f879f6bbbf6987748ed49fe6be5a16 , 71466499107034086xlx.html , _, False , _, suspicious 
+c8f879f6bbbf6987748ed49fe6be5a16 , 71466499107034086xlx.html , _, False , _, malicious 
+5f7d9d333bed0b7caa49cf834f50048f , http://16846.vip/ , Phishing site , True , 3 , suspicious 
+8a4868a78762a6e93503ec8ad8453315 , http://120.83.84.115:57033/Mozi.m , Malware site , True , 21 , malicious 
+0aa27e0a1c9fef709cb12f060fb9c312 , http://www.arrahnuyapeim.net/ , _, True , 0 , malicious 
+ae7fb69f17206c2d97d69fe95bb1070f , 사례비(양식).hwp , _, False , _, suspicious 
+9d38d652a5118cdcdee8ea782f81e8f7 , ClickShare_3.12.0.1003_Apkpure.apk , _, False , _, malicious 
+6d8dbbc86f7223765d3e2109e60e4fc3 , http://42.58.147.140:16565/bin.sh , Malware site , True , 17 , malicious 
+ac181af9a2486bedcdc3de2d24128e36 , Firewall_No-Root-v2.2.7_build_2027-Mod.apk , PUA.AndroidOS , False , 1 , malicious 
+243ee15efe2b6de46e07259a464d9e60 , http://25067.vip/ , Phishing site , True , 3 , suspicious 
+5e5bb68b017e77dce5c222db82f14bdb , MtF.exe , Trojan.PSW.Worgtop , False , 4 , malicious 
+1c70e1d61e5fac93eea41f1da042ccd6 , https://gitlab.gnome.org/dewedeth/0x-api-starter-guide-code/-/issues/959 , _, True , _, suspicious 
+0a80f7930c13897cafa5d11210344eaf , http://159.203.4.119/ , Malicious site , True , 7 , suspicious 
+904250af31bdead6a64478f824e10cfa , https://eefadefcaedf3adfea1fe0aef.info/ , Malicious site , True , 2 , suspicious 
+0a3a5b4b9341dae874aecfb018f6dfff , http://114.227.191.199:55363/Mozi.a , Malware site , True , 21 , malicious 
+f6e147890528d9f9a2b49f31b324e661 , anygo.exe , Program.Unwanted , False , 1 , malicious 
+09382e4e1f85c4e8524ccab31f1e5459 , Receipt-Confirmation-1100928.shtml , Redirector.PVM , False , 13 , malicious 
+d422f469f513b8b59c7950f4477956e3 , http://bro4.biz/bro1.js , _, True , _, suspicious 
+6a12e01e97b2e6053e3e287eecafc96e , sc.exe , _, False , _, malicious 
+c6423793c021b170f9286b8590b1467e , ATT06524.htm , Redirector.PUW , False , 3 , suspicious 
+a86f265a4cbaf9062dd3aafb6b195ef2 , http://www.avco.co.il/ , _, True , 0 , malicious 
+89f45849f65cd60af243a96e57ee6a39 , Payoff - Loan Number ending with 8224.htm , TrojWare.HTML.TrojanDownloader.Agent , False , 10 , suspicious 
+d4f936ad894820c5f3b538d68856c0d7 , sc.exe , DeepScan:Generic.ShellCode.Donut.Marte.1 , False , 32 , malicious 
+38781bb02ed0161be842cd528093e656 , https://drive.google.com/file/d/1VtW0LLf6AFoQSJXddQF7KQGQdlwhXI5p/view , Malicious site , True , 1 , suspicious 
+4f9f0d4acb9b763fea287c1c61fea588 , INV_Iknd0064770309392u306Lb2n0lzgiuACmGhHrsOE37xX5O4R9cPa3x1mmX9LzPdFVT.HTM , Probably Heur.HTMLUnescape , False , 1 , suspicious 
+ff5f97b68f915ff03fabeac2d8873395 , https://gitlab.gnome.org/Incubator/Submission/-/issues/3 , _, True , _, suspicious 
+7546cdb4ec944e8ea8659cbe835f3662 , ioxu.exe , _, False , _, malicious 
+b64ef43f5a6a7fdf0bfbafe2b512bbac , http://85.105.129.64:55844/i , Malware site , True , 20 , malicious 
+ec112e2557d1927483059f7c15d8be76 , http://fitgirl.com/ , _, True , 0 , malicious 
+b76c1ce2d61d649e80ff24d879bbe7a4 , ATT45045.htm , Redirector.PUW , False , 3 , suspicious 
+ac3ce2a00a42baea4772fa12b8eb5513 , https://igetintopc.com/ , Malicious site , True , 1 , suspicious 
+2d15831c636b5e8d5bef648dd8f01bcf , 📑Monthly Payable.htm , Phishing.HTML , False , 10 , malicious 
+1fd38cecff91d4224ff8a5e3dda11d1e , http://it.77-91-78-129.cprapid.com/isp/it , Phishing site , True , 15 , malicious 
+5e8813d1930484bf9d84474b237e37e6 , Payoff - Loan Number ending with 9749.htm , TrojWare.HTML.TrojanDownloader.Agent , False , 10 , suspicious 
+3f68c18276c44567b8a9d3642cd42f5d , PayApp_EFTPay219877.HTM , Trojan.Generic , False , 23 , malicious 
+da59bf794d1d42e7263fbe96773eef8a , boludo.exe , Gen:Heur.MSIL.Krypt. , False , 54 , malicious 
+f002f8f2e70e249eba311145ee956eb8 , http://58.252.181.209:58038/Mozi.m , Malware site , True , 14 , malicious 
+3094d70e2c97f750c662ff31f4777b58 , GrabASite5SetupNew.exe , _, False , 0 , suspicious 
+31c5761518b55bff984c5f429015194c , WebWhacker5Setup.exe , _, False , 0 , malicious 
+a72675445a9677ac139695e98dc253e3 , INV_eZCo0001096216264zwdUzo8CHcTYpuAkI5o1pZSvMkLl7qouTW5G7c9kYOIOjZxU02.HTM , Probably Heur.HTMLUnescape , False , 1 , suspicious 
+3f78ff3b8bb243273b5c319cc030a842 , http://bjournal.com/ , Malicious site , True , 2 , suspicious 
+6ae21db3ca4aaae8b1d7c9bba8375705 , http://pcimage.com.my/ , _, True , 0 , malicious 
+7ec5638a33bb63e8e2d896c0ff0088a3 , https://www.niftygatewaistake.com/?gclid=eaiaiqobchmi1nnm4it3_aivineych0f-q2jeaayasaaegkdlfd_bwe , Phishing site , True , 1 , suspicious 
+85895f6303b06a3dfc252b311602f543 , ☎️ VM_0216202399.htm , Phishing.HTML , False , 5 , suspicious 
+d5e79e46e67ca2394c6e8f060bf0a97a , http://v-market.name/ , Malicious site , True , 1 , suspicious 
+67ca25f39d000bd8b005388890bccbb4 , http://182.118.186.87:54938/bin.sh , Malicious site , True , 15 , malicious 
+5df1c46c7f4cd7f48eeb9450e31ee5d9 , https://gitlab.gnome.org/dewedeth/0x-api-starter-guide-code/-/issues/901 , _, True , _, suspicious 
+4f25a48fec59a0bf6a27f1e49429b7b0 , https://www.multi-axelarbridge.com/ , Phishing site , True , 1 , suspicious 
+79c88d56a0b060fdfb70923748a286c0 , 79C88D56A0B060FDFB70923748A286C0.apk , Android:Evo , False , 31 , malicious 
+7aef897eacc79bd3ba903a176226997e , http://mtl.atorrens.com.br/pub/clicks?cliente=ZGVtZWxvbWF0dG9zQGhvdG1haWwuY29tDQo%3D , _, True , _, suspicious 
+1e46e5b11ae3f2a76519d62326b4a44b , 1e46e5b11ae3f2a76519d62326b4a44b.exe , W32.AIDetectNet , False , 4 , suspicious 
+7c4e6b3500517456ba639efa10d93862 , https://gitlab.gnome.org/dewedeth/0x-api-starter-guide-code/-/issues/877 , _, True , _, suspicious 
+0fd76643c54bf159ae09bf01af35b5bb , https://gitlab.gnome.org/dewedeth/0x-api-starter-guide-code/-/issues/873 , _, True , _, suspicious 
+9b88021e32444b8c11b87d9ee343f1e7 , http://117.248.48.76:42017/Mozi.m , Malware site , True , 14 , malicious 
+8aa3f56246d86023f831633a118074e0 , https://id-eposi.co.jp.ogqajfa.cn/ , Malicious site , True , 5 , suspicious 
+1f72a381e333a66970650343ecdbf81f , https://gitlab.gnome.org/dewedeth/0x-api-starter-guide-code/-/issues/863 , _, True , _, suspicious 
+10c6baecfc7ef5cdec1bd61f644e3221 , https://gitlab.gnome.org/dewedeth/0x-api-starter-guide-code/-/issues/861 , _, True , _, suspicious 
+c9649fb4c7827a717ab7c2d577e7bc87 , http://nasim1.duckdns.org/ , Malware site , True , 12 , malicious 
+8f3923332dfeab89be864a6c9f5026c7 , HPC.VBA.UI.dll , _, False , _, suspicious 
+732a19d80842fd1c2b0319a8ec91de30 , https://gitlab.gnome.org/dewedeth/0x-api-starter-guide-code/-/issues/854 , _, True , _, suspicious 
+efa1eeb3771fe0a590633162cf8b261d , http://182.127.69.39:37306/bin.sh , Malware site , True , 20 , malicious 
+304b929311bc13964dc9c7609bd5da39 , FLDownload.dll , Malware.Generic , False , 1 , suspicious 
+5843ba486b3a018361770518b7aa8a98 , Doc.xlsx.exe , Gen:Variant.Nemesis , False , 37 , malicious 
+c09390a321c2edc021044aaa08d7dc0e , Lab2.exe , AD.Swrort , False , 70 , malicious 
+a50adb9dc20ce015184ab49593ffb84f , http://iyfbodn.com/?dn=index-of.co.uk&pid=9POT3387I&pbsubid=a7812186-fb63-1db0-4ccb-c43d634ef284&noads=http%3A%2F%2Fiyfbodn.com%2F%3Fdn%3Dindex-of.co.uk%26skipskenzo%3Dtrue , Malicious site , True , 3 , suspicious 
+4eb6e0ddc25b54506c3571178e51124d , https://gitlab.gnome.org/dewedeth/0x-api-starter-guide-code/-/issues/844 , _, True , _, suspicious 
+c220cef7a436fdac956ef28bfd3ca1a2 , http://27.45.93.213:53200/Mozi.a , Malware site , True , 17 , malicious 
+abe2d735ef5d9876226ae763b173530b , Seculetter test file_1(A-3-1).ppt , HEUR:Exploit.SWF , False , 4 , suspicious 
+db18fa9966c8bc9468e13213f5968922 , http://2y.charity/ , Malicious site , True , 1 , suspicious 
+35b0e0a5c67f84e7785533a7a4b50a5f , Vampy_adventure.exe , _, False , 0 , malicious 
+ed4498594aa6799bf0d608539e7662e0 , http://42.235.184.158:35846/Mozi.m , Malware site , True , 16 , malicious 
+a420c851252129b2c727aed2d94a27fb , https://gitlab.gnome.org/dewedeth/0x-api-starter-guide-code/-/issues/809 , _, True , _, suspicious 
+61ae773bc3c81aa202eb2d86d69f4efa , CorsairPluginForAuraSync_2.0.32.msi , _, False , 0 , malicious 
+ae2c5d54d531f3ad642333c83f1ee479 , https://t03.mailsrv-e.com/click?v=2&umk=627705f7d33d69.15015063627705f7d&origurl=aHR0cDovLzZabnUyR0otTUQ1LmphcnJvZGNob25nLmNvbS8%2FYW1sdExtMTFjbkJvZVVCaGJHTnZiaTVqYjIwPQ%3D%3D%3D&link_id=60632&s=0512009455d67d64a3468827be4b84bc , Phishing site , True , 1 , suspicious 
+20a96a16762ae8dd324ef325a3f0a0fc , https://2j.network/ , Malicious site , True , 1 , suspicious 
+60823a241b5fc178d21f0dde97d41deb , https://gitlab.gnome.org/dewedeth/0x-api-starter-guide-code/-/issues/807 , _, True , _, suspicious 
+a2855c7e2c3333b5b35af82a36ac2bc3 , GlobalProtect64.msi , _, False , 0 , malicious 
+71db1309579920d307a7c861b72ce74b , https://gitlab.gnome.org/dewedeth/0x-api-starter-guide-code/-/issues/803 , _, True , _, suspicious 
+e62c3c61e5ef83dcca28611d54a238cc , http://222.139.41.77:39869/i , Malware site , True , 18 , malicious 
+91334d6137382fa15924ba5af8d86c88 , http://2m.charity/ , Malicious site , True , 1 , suspicious 
+0ddc304aafe18babcb42ff6a28e4cad3 , https://gitlab.gnome.org/dewedeth/0x-api-starter-guide-code/-/issues/783 , _, True , _, suspicious 
+c5d1c82c69c43822b269bd556c472350 , https://genk.vizcloud.club/simple/EqPFIfwQWADtjDlGha7rC5UuqFwdu_j7CB57rqk+wYMnU94US2El_Po4w12g/br/list.m3u8 , _, True , _, malicious 
+750404104e364e749fd3af3be6c2ee09 , https://geak.vizcloud.club/simple/EqPFIfwQWADtjDlGha7rC8UuoFweuL76Fhl7rqk+wYMnU94US2El_Po4w12g/br/list.m3u8 , _, True , _, malicious 
+01b72f2328917d95293a7ab2e799bed0 , https://cdn-cached-15-w.dailymotionz.cam/hls/zmy5mzwf7gnnzmnho7jqzgrmopn7s4ppanthk5rsbsfg33uzcv2zqnvuwbva/index-v1-a1.m3u8 , _, True , _, malicious 
+d59e6e212f55209a7eb4890105a9a111 , https://cdn-cached-15-w.dailymotionz.cam/hls/zmy5mzwf7gnnzmnho7jqzgrmopn7s4ppanthk5rsb3eg33uzcv2ypletadxa/index-v1-a1.m3u8 , _, True , _, malicious 
+c122c78d9dc399ae39ba1f257145b583 , https://cdn-cached-15-w.dailymotionz.cam/hls/zmy5mzwf7gnnzmnho7jqzgrmopn7s4ppanthk5rsbsfg33uzcv2zqnvuwbva3eg33uzcv2ypletadxa.urlset/master.m3u8 , _, True , _, malicious 
+02c0dad453248d6aea761cf90f517d57 , https://admin.fukuokacity-sdg.sumiyoku.jp/site.webmanifest , _, True , _, malicious 
+5ee0d22781df704cc3df427210ebfa4b , http://wieniawski.lublin.pl/o74647hhd/ , _, True , _, suspicious 
+6f1f393eb5cfa54d1a9e8d41f2445fef , twinkl_receipt_2084066_12459345.pdf , _, False , _, suspicious 

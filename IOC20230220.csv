@@ -1,0 +1,118 @@
+FileHash-MD5,Indicator_Name,Description,isURL?,Risk_Score,Threat_Category
+4087fac33fd78c27589986c936668ec6 , AlienShooter.exe , Malware.Heuristic , False , 2 , malicious 
+de0719481e1ddd6ae2e090756b861aa7 , http://subtlemidst.cn/hebmx/tb.php?wq=fd1676870140007 , Phishing site , True , 5 , suspicious 
+d0f969141462c0b30cefbaa6e7313522 , https://greatmanagers.sparkchart.com/ , _, True , 0 , malicious 
+2f6dd5444f1ab3c809529bc8fdd67724 , MAS_AIO.cmd , _, False , 0 , suspicious 
+7e5f97963f434de072fef8c3e790714e , http://117.214.218.143:58574/Mozi.m , Malware site , True , 4 , suspicious 
+13bd9277a9902c79f18533fc5817dcc3 , https://www.moneyklt.gzmoce.com/sonn/index.php , Phishing site , True , 7 , malicious 
+9222b3b4be045be3f02b0b6558c907da , IronPython.dll , _, False , 0 , suspicious 
+ab56ed17bee01417ed94f5f70de6cb19 , Booty_Calls_1.2.131_131_c9f11a.apk , Dropper.Agent.Android , False , 12 , malicious 
+3411b8c59a01ed5ee09474c864c52865 , Lay8setup.exe , _, False , _, malicious 
+c8d2beb8c2924f4b1fbf4c63f5210632 , http://109.60.210.163/ , Malware site , True , 1 , suspicious 
+cb6d18704c504d71cd63eff4e6f6ab89 , https://r20.rs6.net/tn.jsp?f=001vwLHN_iaBrX43KHjnuQ-tbCOh4MR4-48S9qo7B9-yfsP_M_a0fyRKh6epFH_TjR7WUFOwq-N-GF-MQhiDc4TnKJm7Yo21b5mCvGgQBjViBR5rE4OrFY94QHxMoO195qXd3wnnEw960gxt_yvh_3VXhrvpX4O1s0J&c=4-gF5vR1PjTd8tgXUyfXBHjKgP3Ez0h0MawvKOIiqc1ew8NJb0-aBg%3D%3D&ch=JTeFI2mpi2_s5Q8hxphdYhyAT4w8YhgdKQ9Qpuytrt1TbY7puHoz1g%3D%3D&__=chuck.buchanan%40otsuka-us.com , _, True , 0 , malicious 
+de184a33c1cba546ffe9e5e654550e7b , https://www.moneyklt.lhjzzcxn.com/sonn/index.php , Phishing site , True , 7 , malicious 
+39818d3ee02e8d8d3a7b2320fa4ed916 , eft.exe , malicious.e01465 , False , 12 , malicious 
+28e2e4e68504c4f1e87e507979683fe5 , http://stmikplk.ru/ , Phishing site , True , 8 , malicious 
+ee72b800e5724ced8872d11bc9941182 , http://www.pccs.org.au/ , _, True , 0 , suspicious 
+71d19e733dce5f6887c8f15563ab1e9c , http://201.211.189.217:45574/bin.sh , Malicious site , True , 7 , suspicious 
+84a3278f012f5bff872fd12081186e7f , IronPython.dll , _, False , 0 , suspicious 
+3e0a230a0bae84395e50ef8d67a0eece , Microsoft.Dynamic.dll , _, False , 0 , suspicious 
+b79d0f73a5d30077efe0df8425e01c9b , Microsoft.Scripting.dll , _, False , 0 , suspicious 
+8498157fa08404941df3438804fa7961 , IronPython.SQLite.dll , _, False , 0 , suspicious 
+883bb62dcc6f9dc719b553a83d6ce167 , IronPython.Wpf.dll , _, False , 0 , suspicious 
+8fc58499cc6f1e8d6b1ca29490a9dc73 , Microsoft.Dynamic.dll , _, False , 0 , suspicious 
+ad022ffd04de2808da6c33ae0290c103 , IronPython.Modules.dll , _, False , 0 , suspicious 
+a0bb127b9adfdbd583c824dd23625a9a , Microsoft.Scripting.dll , _, False , 0 , suspicious 
+5b65b885f602827a99a08f9b68127843 , IronPython.SQLite.dll , _, False , 0 , malicious 
+7d7e5c377db293f15f18e6477f1fdf86 , IronPython.Modules.dll , _, False , 0 , suspicious 
+eac5e4c8167f4e13fcf6ef820705abf1 , IronPython.Wpf.dll , _, False , 0 , suspicious 
+d79199fd1f530c70bd4a6de617e69ca6 , Microsoft.Scripting.dll , _, False , 0 , suspicious 
+01237b52e4ab707d907441c1e98b2bc2 , IronPython.dll , _, False , 0 , suspicious 
+4b0224a1a04efc4079e859c7c026fee0 , Microsoft.Dynamic.dll , _, False , 0 , suspicious 
+af7690b2adf71778be21e477ebe663f6 , KOKUYO_Awase5_Windows_Setup.exe , Malware , False , 2 , suspicious 
+2ec8b6f478e732d34f6458b47cc83016 , IKVM.Reflection.dll , _, False , 0 , suspicious 
+37d4c83d4745f48006df705ef530966f , IronPython.SQLite.dll , _, False , 0 , malicious 
+d35bc094069136a56373ef33ce20a786 , setup.exe , Malware.Generic , False , 12 , malicious 
+05f2fd1bc0694fb1accd3be69cae00dc , readerdc_ru_fa_cra_install.exe , AGeneric , False , 2 , malicious 
+1329d7d83a61b89358d5e7dc9a19aee7 , ScriptHookVDotNet.dll , _, False , 0 , suspicious 
+f200dbb77ab1af1a047615b8e2af14c1 , test22.exe , _, False , _, malicious 
+c18792af6e45c9c21f2006742cc207c1 , maldoc.xlsm , EICAR , False , 9 , malicious 
+797cbb06fabb641187eb5e334a05938d , WrysersGoPro.dll , Malware.Generic , False , 1 , malicious 
+d925eb1e34a30a3ec383f18420ceb964 , https://fleek.ipfs.io/ipfs/bafybeih3ffzy4v2cstq2kgms3u2hzxvjjiarwyqxoavutyptbhcjzc6kv4/#csrgrants%40communities.tas.gov.au , Phishing site , True , 5 , malicious 
+509850a78ae5adcf0d78887c48d57c43 , Setup.exe , Trojan.Generic , False , 1 , suspicious 
+557b46e6cbd7f1d7a0a123e48a4e8cbe , https://www.moneyklt.flsaz.com/sonn/index.php , Phishing site , True , 5 , suspicious 
+f36d909ecf98db22a871a7d1b20bbc1a , https://thepiratebay.u4m.ink/ , _, True , _, suspicious 
+b94ff046f678a5e89d06007ea24c57ec , ImmunityDebugger_1_85_setup.exe , Adware.BrowseFox , False , 7 , malicious 
+7cff028b8c8a77033dab51caa593e733 , Setup.msi , _, False , 0 , malicious 
+2fce74c31829c960094bc236dd7b642a , Booty_Calls_v1.2.131_MOD_modded-1.com.apk , Artemis , False , 14 , malicious 
+59e67fc26967875e42740c465f05205d , http://msedge.api.cdp.microsoft.com/API/v1.1/contents/browser/namespaces/default/names/msedge-stable-win-x64/versions/latest?action=select , _, True , _, malicious 
+fe5281bacb2c737dd60bf817b58fe380 , ScriptHookVDotNet.dll , _, False , 0 , suspicious 
+79c489e2679b60fb50b2619523f09b7f , BlockBuster 5.exe , malicious.b532d6 , False , 2 , suspicious 
+f2965e78701cee62d5add9d19cacec75 , uninstallhlpr.exe , _, False , 0 , malicious 
+9aa9cf9b832d9beedacc5c99b6e7ee7a , LgLcdApi.dll , _, False , 0 , suspicious 
+7b0595b2c6fb3257cac6fe9e4d6ebb9a , [New Ticket]#7890137081.pdf , _, False , 0 , suspicious 
+948ff1843ebba30026ff645179e1c33a , Logitech Game Integrations.exe , _, False , 0 , suspicious 
+f460f9a9f7cd280b9e3079a2fd014584 , Qt5Multimedia.dll , _, False , 0 , suspicious 
+76740dc4b7afa28797a2d8ebb5dbeb95 , https://pirateproxy247.com/ , Malicious site , True , 1 , suspicious 
+4c7c9ceedf290a1e9256ce5755781d94 , LogitechSteeringWheel.dll , _, False , 0 , suspicious 
+aa418db08b38e030c2d42216e8214213 , LULnchr.exe , _, False , 0 , suspicious 
+c50e17e39f48f928f478d501ae2eb9c5 , G402Update_v17.exe , _, False , 0 , suspicious 
+c4f984c145c417232c99717f0cfa7306 , PhantomConnect.exe , Trojan.PSW.Python , False , 4 , malicious 
+bcc6fb6a8f9934143427a30ac7c3a831 , itubego_18.exe , _, False , 0 , suspicious 
+8ec84352f6377642a1ca531c9d13dfe6 , https://www.tpbproxy.xyz/ , Malicious site , True , 1 , suspicious 
+4a7f92deb8a2b20bc3a0d4fb1e5ba2e8 , Bongiovi_DPS_Win_Setup_2.2.7.1.exe , _, False , 0 , suspicious 
+b2565739c7daa459316c0bcffd24c45f , G933Update_v27.exe , _, False , 0 , suspicious 
+d829dee64872da52f54d4a45e73127a3 , Nakatomi.exe , BehavesLike.Generic , False , 7 , suspicious 
+b5c62b21e7c3c59273afc9ae37e416ca , https://powerpsychopathcounsel.com/watch.489568447228.js , Malicious site , True , 1 , suspicious 
+e6158723881915a2dfd2c3dc8beb0174 , http://englishlotto.com/ , Malware site , True , 1 , suspicious 
+46ce891e6fccf2ad8ef2572c40324b77 , https://mail.ixzuu.com/#%2F1h8e5hp5zd%2Fhr%40gilson.com , Phishing site , True , 1 , suspicious 
+d0a42dc2cc12ce7603b975b48d8a9b4e , KollusAgent-3.0.7.9.exe , PUA.DownloadManager , False , 1 , malicious 
+8d009fcbfcd24917c52f8a2bfc3bc850 , http://ynpvc.com/wp-content/themes/twentytwentytwo/inc/patterns/page-about-links-grey.php , Phishing site , True , 11 , malicious 
+7d877b2b094ee57cba33132701ccab76 , TestInstall1.exe , _, False , _, malicious 
+484fb4579338d54e7b0a7b37fd26d448 , https://www.click4r.com/posts/g/8114139/biggest-problem-in-world , _, True , _, malicious 
+b2c6c6a595e5f2a1cc355f34109418a3 , stwebdll.dll , Ramnit , False , 84 , malicious 
+cd5d2086abc62dba4304a852e7bd963d , 9cdc8bc82290006a5e2a0c06a42bb3004cc41822876c861339ad5acc9c70403f.exe , Generic.AsyncRAT.Marte.B , False , 71 , malicious 
+4ec1f5c6d8ad295bc22b4d5714792d7c , https://communityin.oppo.com/thread/1270407029290958854 , _, True , _, suspicious 
+c3dd36e88869c05239defad0226c86dd , https://paiza.io/projects/ctRMImbguSmRbGJCYiqZjA?language=php , _, True , _, malicious 
+7d85acafa950e6ebb01abfc88cd13575 , make_cbf.exe , Trojan.PSW.Python , False , 25 , malicious 
+89e568178d0ea5f3ec5bdc9fa0e39169 , https://www.asbestect.com/ , Phishing site , True , 4 , malicious 
+81abac937b4d6e1da4a228eaff2997ff , BDPS_Registrator.exe , W32.Trojan , False , 11 , malicious 
+890871ec0c966c49639b456ad67e3650 , http://titanhotelgroup.com/ , _, True , 0 , malicious 
+2a43072fa0dec10683078b0955dac7f0 , IE 11.vbs , _, False , 0 , suspicious 
+aa98fe35d6543815de4ee9159977984f , DeluxeChat-1.12.7.jar , _, False , _, suspicious 
+5fb6595ed57e4b69a06cfd3baebd61c3 , http://182.56.253.219:60403/i , Malware site , True , 8 , suspicious 
+cdb5cd0d94d6840775a24cdcdf64600d , http://halotying.com/ , _, True , _, suspicious 
+d717a681c9e66ea6ddc7d1e933d3d51d , https://keune22158.lt.emlnk.com/Prod/link-tracker?notrack=1&redirectUrl=aHR0cHMlM0ElMkYlMkZpcGZzLmlvJTJGaXBmcyUyRmJhZnliZWljeWp1eGJscHRzZGt5ZWN3ZWNoa3luZGp1aTJoaWwzdXp1bW1sNzRweHhpaWN1eHN1anJxJTJGc2lscmFzaF9vd2E0NjU2Ny5odG1s&sig=qSapvmumpqcRPD2xM16jtXwCGgAEMEwJHJNu8GmwKSc&iat=1676845679&a=%7C%7C226261203%7C%7C&account=keune22158.activehosted.co , _, True , _, suspicious 
+6656c3bfa5ad9a41d731fd7e998af28a , AntDM-x64.2.9.3.beta-setup.exe , malicious.moderate.ml , False , 2 , malicious 
+8ac1cb4fab7217e15e04905879253847 , ProgDVB7.49.5x64.exe , _, False , 0 , malicious 
+d53e41f3b04aa4a7b4c767c81b65a6a9 , LogitechGkey.dll , _, False , 0 , suspicious 
+d4f71d124134bfd939da9efbd57fcfc9 , LogitechLcd.dll , _, False , 0 , suspicious 
+c2ccd60a9c8e2676899513527a49e1fd , LogitechGArxControl.dll , _, False , 0 , suspicious 
+89b203cd15a3f47aea36148eacdb4d80 , LgLcdApi.dll , _, False , 0 , suspicious 
+ac4d67c793d00cc618c182846f2d6f80 , LogitechLed.dll , _, False , 0 , suspicious 
+9d658a374a0d2f2f0a4a97ed57890dbe , LogitechSteeringWheel.dll , _, False , 0 , suspicious 
+2f171dbdb111e5f1e2c2c2615e8edb38 , LogitechLcd.dll , _, False , 0 , suspicious 
+a74360b505791b921be0cf83cad1fd7f , LogitechLed.dll , _, False , 0 , suspicious 
+98b1af3fc2f6e0643f535d35777a43dc , LogitechGArxControl.dll , _, False , 0 , suspicious 
+cf6177b318693825b61a3a23013d439c , RestartLCore.exe , _, False , 0 , suspicious 
+c31c91e7f82b52b1841d5451a35e34e5 , Qt5Xml.dll , _, False , 0 , suspicious 
+4f7011471f66bb8548dfafb7fe481250 , LogicoolUpdate.exe , _, False , 0 , suspicious 
+e92be9106bd251dc1032179cd604eaab , Qt5PrintSupport.dll , _, False , 0 , suspicious 
+3334b60825260b5dfc9b3a94ad8f0171 , https://communityin.oppo.com/thread/1270386059783962631 , _, True , _, suspicious 
+b937ff88121f6e31f2068295e9eb0352 , Qt5OpenGL.dll , _, False , 0 , suspicious 
+e2b74f774db51e8140ae4f1331c5f45a , qwindows.dll , _, False , 0 , suspicious 
+07427497ed918788eb2a4af3d495758b , Qt5Core.dll , _, False , 0 , suspicious 
+481e5f897adb3b1f25e71a4519c9184c , G303Update_v26.exe , _, False , 0 , suspicious 
+3cf54f187a78a81f0a1eed8e066e9908 , G810Update_v31.exe , _, False , 0 , suspicious 
+9243055ebaeb5a12a373e310b8b0c989 , qjpeg.dll , _, False , 0 , suspicious 
+b7a78cd53cd88d771e71ea930109da46 , G502Update_v17.exe , _, False , 0 , suspicious 
+0130dee726f159667303f40a112f0d37 , G533Update_v13.exe , _, False , 0 , suspicious 
+8df40e665f32d37ede3eb035b6fdaed6 , msvcr110.dll , _, False , 0 , suspicious 
+798f84158253fb28572848c28e41edfc , LGHppFrc32.dll , _, False , 0 , suspicious 
+44c9bbe51b47b3b31471a99d0a1cd03a , G203Update_v15.exe , _, False , 0 , suspicious 
+cf78c4da4632145fecfe9822c145c1ca , LGSpeakerPropPage.dll , _, False , 0 , suspicious 
+4e5122ca0bba5c41e69611a6a4eb0f76 , LGCapturePropPage.dll , _, False , 0 , suspicious 
+8274b067dd2e82c5f78923d6d5129fc2 , DtsRoomInfo.dll , _, False , 0 , suspicious 
+28113c475135d81cc317b961d4d59b57 , LGS_Hlpr2.dll , _, False , 0 , suspicious 
+f65160ba2a45288e70365efccac5c4c5 , LGHppFrc.dll , _, False , 0 , suspicious 
+2c9264fe81346b64e9b87faaf344af9d , LGJoyFrc32.dll , _, False , 0 , suspicious 
